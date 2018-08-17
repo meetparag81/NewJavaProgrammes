@@ -1,6 +1,6 @@
 package ImportantProgrammes;
 
-public class FindDuplicatewordsfromString 
+public class FindDuplicatewordsfromStringByMe 
 {
 
 	public static void main(String[] args) 
